@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/1043519/pexels-photo-1043519.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/1328885/pexels-photo-1328885.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/1011337/pexels-photo-1011337.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/55825/gold-bear-gummi-bears-bear-yellow-55825.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/208006/pexels-photo-208006.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/65547/pexels-photo-65547.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/1068535/pexels-photo-1068535.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/325526/pexels-photo-325526.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/1289365/pexels-photo-1289365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/997731/pexels-photo-997731.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://images.pexels.com/photos/718759/pexels-photo-718759.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    }
+  ]
