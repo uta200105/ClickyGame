@@ -21,7 +21,7 @@ function randomPieces(array) {
 class App extends Component {
   // this.state
   state = {
-    pieces: [],
+    gamepieces,
     currentScore: 0,
     topScore: 0,
     guessresult: "",
@@ -66,7 +66,7 @@ class App extends Component {
   handleShuffle = () => {
     let shuffledPieces = randomPieces(gamepieces);
     this.setState({ 
-      pieces: shuffledPieces 
+      gamepieces: shuffledPieces 
     });
   };
 
@@ -81,11 +81,11 @@ class App extends Component {
         />
 
       <Title>
-          Click on an image to earn points, but don't click on any more than once!
+          Click on an image to earn points, but don't click on the same one more than once!
       </Title>
         <Container>
           <Row>
-            {this.state.pieces.map(gamepieces => (
+            {this.state.gamepieces.map(gamepieces => (
               <Column size="md-3 sm-6">
                 <GamepieceCard
                   key={gamepieces.id}
