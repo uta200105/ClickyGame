@@ -1,9 +1,5 @@
 .wrapper {
     background: rgb(221, 218, 218);
-    background-image: url("https://images.pexels.com/photos/289649/pexels-photo-289649.jpeg?auto=compress&cs=tinysrgb&h=350");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 100%;
     display: flex;
     flex-flow: row wrap;

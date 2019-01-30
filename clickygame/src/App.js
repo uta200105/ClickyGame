@@ -74,14 +74,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="React Clicky Game"
+          title="Candy Match"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           guessresult={this.state.guessresult}
         />
-
+    
       <Title>
-          Click on an image to earn points, but don't click on the same one more than once!
+      You can only click on each image once!
       </Title>
         <Container>
           <Row>
